@@ -6,7 +6,7 @@
 <div align="center">
   <a href="https://ibb.co/4wyvT9j"><img src="https://www.linkpicture.com/q/IMG-20211014-WA0088.jpg""width="170" height="170"/>
   <p align="center">
-<a href="#"><img title="Arjun-Sir" src="https://img.shields.io/badge/-Shadow sir-red?&style=for-the-badge"></a>
+<a href="#"><img title="Arjun-Sir" src="https://img.shields.io/badge/-Arjun%20sir-red?&style=for-the-badge"></a>
 </p>
   </p>
 <p align="center">
