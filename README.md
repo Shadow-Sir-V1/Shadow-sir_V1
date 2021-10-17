@@ -10,7 +10,7 @@
 </p>
   </p>
 <p align="center">
-<a href="#"><img title="Shadow" src="https://img.shields.io/badge/Shadow-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="Arjun" src="https://img.shields.io/badge/Shadow-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 
 </div>
