@@ -83,8 +83,8 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/Shadow-sir-v1/Shadow-sir_v2
-$ cd Shadow-sir_v2
+$ git clone https://github.com/Arjun1234arjun/Arjun-sir.git
+$ cd Arjun-sir
 $ chmod +x *
 $ npm install @adiwajshing/baileys
 $ npm install chalk
@@ -93,8 +93,8 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/Shadow-sir-v1/Shadow-sir_v2
-$ cd Shadow-sir_v2
+$ git clone https://github.com/Arjun1234arjun/Arjun-sir.git
+$ cd Arjun-sir
 $ chmod +x *
 $ npm i
 $ node qr.js
