@@ -15,7 +15,7 @@
 
 </div>
 <p align="center">
-Project created by <a href="https://github.com/Shadow-sir-v1">Shadow</a> to make it public
+Project created by <a href="https://github.com/Arjun1234arjun">Arjun</a> to make it public
     <br>
        | © |
         Reserved |
