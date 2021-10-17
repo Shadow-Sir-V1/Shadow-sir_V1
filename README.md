@@ -69,7 +69,7 @@ the user is responsible.
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@aju0011/Ajuserv2-Qr)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Shadow-sir-v1/Shadow-sir_v2)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Arjun1234arjun/Arjun-sir)
      </div>
 <br>
 <br >
