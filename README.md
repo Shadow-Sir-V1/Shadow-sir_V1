@@ -36,7 +36,7 @@ Project created by <a href="https://github.com/Arjun1234arjun">Arjun</a> to make
 
 
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Shadow-Sir-V1&bg_color=000000&color=4fff67&l -graph.herokuapp.com/graph?username=Arjun-Sir&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true ine=4fff67&point=ffffff&area=true&hide_border=true)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Arjun-Sir&bg_color=000000&color=4fff67&l -graph.herokuapp.com/graph?username=Arjun-Sir&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true ine=4fff67&point=ffffff&area=true&hide_border=true)
   </div>
  
   
