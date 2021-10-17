@@ -131,7 +131,7 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![Shadow](https://github.com/Shadow-sir-v1.png?size=100)](https://github.com/Shadow-sir-v1)
+  [![Shadow](https://www.linkpicture.com/q/PicsArt_10-17-11.47.57.jpg?size=100)](https://github.com/Arjun1234arjun)
 
 [Shadow](https://github.com/Shadow-sir-v1)  
 Base, Bug Fixed Modifiying  as   public | Bug Fixes, Modules
