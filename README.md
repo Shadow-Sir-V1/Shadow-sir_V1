@@ -1,21 +1,21 @@
 <div align="center">
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F70000&lines=Welcome+to+Shadow-sir_v2+WA+Bot...;Created+by+Shadow...;This+is+a+Bgm+stickerbot...;With+more+features...)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F70000&lines=Welcome+to+Arjun-sir+WA+Bot...;Created+by+Arjun...;This+is+a+Bgm+stickerbot...;With+more+features...)](https://git.io/typing-svg)
 
 
 <div align="center">
-  <a href="https://ibb.co/4wyvT9j"><img src="https://i.ibb.co/dKrkLLY/Pics-Art-09-19-09-18-57.jpg""width="170" height="170"/>
+  <a href="https://ibb.co/4wyvT9j"><img src="https://www.linkpicture.com/q/IMG-20211014-WA0088.jpg""width="170" height="170"/>
   <p align="center">
-<a href="#"><img title="Shadow-sir_v2" src="https://img.shields.io/badge/-Shadow sir-red?&style=for-the-badge"></a>
+<a href="#"><img title="Arjun-Sir" src="https://img.shields.io/badge/-Arjun%20sir-red?&style=for-the-badge"></a>
 </p>
   </p>
 <p align="center">
-<a href="#"><img title="Shadow" src="https://img.shields.io/badge/Shadow-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="Arjun" src="https://img.shields.io/badge/Arjun-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 
 </div>
 <p align="center">
-Project created by <a href="https://github.com/Shadow-sir-v1">Shadow</a> to make it public
+Project created by <a href="https://github.com/Arjun1234arjun">Arjun</a> to make it public
     <br>
        | © |
         Reserved |
@@ -36,7 +36,6 @@ Project created by <a href="https://github.com/Shadow-sir-v1">Shadow</a> to make
 
 
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Shadow-Sir-V1&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)
   </div>
  
   
@@ -69,7 +68,7 @@ the user is responsible.
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@aju0011/Ajuserv2-Qr)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Shadow-sir-v1/Shadow-sir_v2)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Arjun1234arjun/Arjun-sir)
      </div>
 <br>
 <br >
@@ -83,8 +82,8 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/Shadow-sir-v1/Shadow-sir_v2
-$ cd Shadow-sir_v2
+$ git clone https://github.com/Arjun1234arjun/Arjun-sir.git
+$ cd Arjun-sir
 $ chmod +x *
 $ npm install @adiwajshing/baileys
 $ npm install chalk
@@ -93,8 +92,8 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/Shadow-sir-v1/Shadow-sir_v2
-$ cd Shadow-sir_v2
+$ git clone https://github.com/Arjun1234arjun/Arjun-sir.git
+$ cd Arjun-sir
 $ chmod +x *
 $ npm i
 $ node qr.js
@@ -132,7 +131,7 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![Shadow](https://github.com/Shadow-sir-v1.png?size=100)](https://github.com/Shadow-sir-v1)
+  [![Shadow](https://www.linkpicture.com/q/PicsArt_10-17-11.47.57.jpg?size=100)](https://github.com/Arjun1234arjun)
 
 [Shadow](https://github.com/Shadow-sir-v1)  
 Base, Bug Fixed Modifiying  as   public | Bug Fixes, Modules

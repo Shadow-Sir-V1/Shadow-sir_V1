@@ -1,7 +1,7 @@
 {
-    "name": "Shadow sir_v2",
-    "description": "Shadow sir_v2 - re-edited from asena. World’s first UserBot made for WhatsApp.",
-    "logo": "https://i.imgur.com/BVLUrXJ.jpeg",
+    "name": "Arjun-sir",
+    "description": "Arjun-sir - re-edited from asena. World’s first UserBot made for WhatsApp.",
+    "logo": "https://www.linkpicture.com/q/PicsArt_10-17-11.47.57.jpg",
     "keywords": ["whatsapp", "userbot", "Asena", "WhatsAsena", "bot", "api", "ai"],
     "repository": "https://github.com/aju001/Ajuser_v2",
     "website":   "under maintenance",
@@ -74,7 +74,7 @@
         "OWNER_NAME": {
             "description": "reply for .owner ! give your details, Use => default, to change back.",
             "required": false,
-            "value": "SHADOW SIR_V2 BY SKBA MODS"
+            "value": "Arjun-sir BY Arjun"
        },    
         "HANDLERS": {
             "description": "Komutlar için. For commands.",
@@ -114,7 +114,7 @@
          "BOT_NAME": {
             "description": "heading for .list command reply",
             "required": false,
-            "value": "❌  *𝙎𝙃𝘼𝘿𝙊𝙒 𝙎𝙄𝙍_𝙑2*  ❌"
+            "value": "❌  *Arjun-sir*  ❌"
         },
         "HEROKU_API_KEY": {
             "description": "Herokuda API Keyiniz. Heroku API Key.",
@@ -171,7 +171,7 @@
         "ALIVE_MESSAGE": {
             "description": "Customizable Alive Message! Use => default, to change back.",
             "required": false,
-            "value": "i am alive  \n\n ```SHADOW SIR_V2 Coded by skba```"
+            "value": "i am alive  \n\n ```Arjun-Sir Coded by Arjun```"
         },
         "BAN_MESSAGE": {
             "description": "Customizable kick Message! Use => default, to change back.",
