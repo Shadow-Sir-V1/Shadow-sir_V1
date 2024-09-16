@@ -148,7 +148,7 @@ async function whatsAsena () {
                 const get_localized_date = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' };
                 var utch = new Date().toLocaleDateString(config.LANG, get_localized_date)
                 var ov_time = new Date().toLocaleString('EN', { timeZone: 'Asia/Kolkata' }).split(' ')[1]
-                const biography = '📅 ' + utch + '\n⌚ ' + ov_time +'\n\n    shadow-sir'
+                const biography = '📅 ' + utch + '\n⌚ ' + ov_time +'\n\n    Venom '
                 await conn.setStatus(biography)
             }
         }
